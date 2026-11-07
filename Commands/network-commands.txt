@@ -1,0 +1,19 @@
+====================================
+Network Walks Internship - Week 1
+Network Verification Commands
+====================================
+
+1. Display IP configuration:
+ip addr
+
+2. Display routing table:
+ip route
+
+3. Test gateway connectivity:
+ping -c 4 10.0.0.1
+
+4. Test internet connectivity:
+ping -c 4 8.8.8.8
+
+5. Test DNS resolution:
+ping -c 4 google.com
